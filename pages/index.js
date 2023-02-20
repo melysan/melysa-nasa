@@ -43,9 +43,7 @@ export default function Home() {
                   tech && tech.map((t, ind) => {
                     if (ind === 10) {
                       return (
-                        <div key={ind}>
-                          <Image className={styles.techImage} src={t} alt={t} width={100} height={100} />
-                        </div>
+                        <Image key={ind} className={styles.techImage} src={t} alt={t} width={100} height={100} />
                       )
                     }
                   })
