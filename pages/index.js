@@ -44,7 +44,7 @@ export default function Home() {
                     if (ind === 10) {
                       return (
                         <div key={ind}>
-                          <Image loading='lazy' className={styles.techImage} src={t} alt={t} key={ind} width={100} height={100} />
+                          <Image className={styles.techImage} src={t} alt={t} width={100} height={100} />
                         </div>
                       )
                     }
