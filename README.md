@@ -7,7 +7,7 @@ NASA Trek is a web app that uses NASA's open APIs: EPIC and TechTransfer endpoin
 
 
 
-# Techology and Tools Used
+# Technology and Tools Used
 - Next JS 13
 - Axios
 - [NASA Open API](https://api.nasa.gov/)
