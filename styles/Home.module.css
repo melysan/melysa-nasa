@@ -32,7 +32,7 @@
 }
 
 .techImage {
-  border-radius: 20%;
+  border-radius: 50%;
   transition: transform .3s;
 }
 
@@ -40,9 +40,6 @@
   transform: scale(2);
 }
 
-.techCont {
-  padding: .1em;
-}
 
 .polychromaticLink {
   font-family: sans-serif;
